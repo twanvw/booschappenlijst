@@ -1,8 +1,1 @@
-# booschappenlijst
-eieren
-melk
-snoepjes
-koekjes
-aardappelen 
-saus
-supreme cola
+dit is mijn boodschappenlijst. 
